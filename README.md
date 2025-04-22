@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan-Bhatiya-001
+- 👋 Hi, I’m @Aryan-Bhatiya
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on open source Automation Projects
